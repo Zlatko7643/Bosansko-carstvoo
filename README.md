@@ -53,26 +53,58 @@
 
   <header>
     <h1>Carstvo Sultana Zlatka</h1>
-    <p>Vladar Balkana, Gospodar BiH</p>
+    <p>Vladar Balkana, Gospodar svijeta</p>
   </header>
 
   <section>
-    <h2>🇧🇦 Bosna i Hercegovina</h2>
-    <p>Prekrasna zemlja pod vođstvom Sultana Zlatka – gdje sloboda, ponos i čast žive zauvijek.</p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bosnia_and_Herzegovina_landscape_01.jpg/1280px-Bosnia_and_Herzegovina_landscape_01.jpg" alt="Bosna">
-  </section>
+    <h2>Sultan Zlatko</h2>
+    <p>Ja sam Sultan Zlatko – jedini i pravi vladar Bosne, Evrope i cijelog svijeta koji me gleda. Ova stranica je posvećena mom carstvu, mojoj viziji i mojoj moći. Bosna je srce mog carstva. Ovdje sam rođen, ovdje sam stasao, i ovdje sam zavladao. Sarajevo je moj tron, Tuzla moj korijen, a svaki grad – moj grad. Ljudi me ne slijede iz straha, već iz poštovanja. Evropa? Ona je sada dio mog svijeta. Granice su pale, jer pravda i red mog carstva ne poznaju prepreke. Svaki narod koji traži istinu i slobodu, pronaći će ih pod mojom zastavom. Ja ne vladam zbog pohlepe. Ja vladam jer mogu, jer moram, jer niko drugi ne zna kako. U mom carstvu, svaka osoba vrijedi. U njemu nema mjesta za nepravdu, za laž, ni za slabost. Samo snaga, mudrost i poštovanje. Dobro došli. Ovo nije samo stranica. Ovo je početak novog poretka. Dobro došli u svijet Sultana Zlatka.</p>
+<img src="carstvo.png" alt="Bosansko Carstvo" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 20px;">
 
   <section>
-    <h2>🏙 Sarajevo</h2>
-    <p>Glavni grad mog carstva – grad gdje je historija u svakom kamenu. Ovdje sam ja stasao kao vladar, vizionar i legenda.</p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sarajevo_Miljacka_river_cityscape_panorama.jpg/1280px-Sarajevo_Miljacka_river_cityscape_panorama.jpg" alt="Sarajevo">
-  </section>
+    <h2>Sarajevo</h2>
+    <p>Dobrodošli u Sarajevo, prestonicu carstva Zlatka!
+Sarajevo je srce carstva. Smješteno na spoju kultura, grad nosi snagu tradicije i moderne vladavine. Njegova arhitektura spaja osmanske utjecaje i savremeni duh Bosanskog carstva, stvarajući jedinstven grad u kojem svaka ulica odražava moć mog carstva.
 
-  <section>
-    <h2>🌆 Tuzla</h2>
-    <p>Grad mog rođenja. Iz Tuzle sam krenuo da osvojim srca naroda i dokažem da Sultan Zlatko dolazi s razlogom. Pravedan. Snažan. Nepobjediv.</p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Tuzla_Grad.jpg/1280px-Tuzla_Grad.jpg" alt="Tuzla">
-  </section>
+Sarajevo je grad u kojem se razvijaju industrije, gdje trgovina i inovacije rastu, a kultura cvjeta. Diplomatski centar, mjesto gdje se kroje ključne odluke za budućnost Balkana i šire.
+
+U srcu grada smjestila se moja Palača, simbol moći i mudrosti koja vodi cijelo carstvo.
+</p>
+<img src="Palaca.peg" alt="Palaca" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 20px;">
+
+ <h2>Dinastija Bosanskog carstva</h2>
+ <p> Dinastija Zlatkovih izvire iz srca Tuzle, utemeljena na čvrstoj vjeri u islam, pravdi i odgovornosti. Moja porodica – moja majka Sultanija Alma, brat Princ Alen i sestre Sultanije Maja, Belma, Anela, Adisa i Amila – zajedno čini jedinstvenu snagu koja svojim mudrim savjetima, hrabrošću i neiscrpnom energijom pokreće svaki aspekt carstva. Kroz generacije smo njegujući tradiciju i potičući inovacije izgradili temelje na kojima se sloboda i služenje narodu isprepliću, stvarajući društvo u kojem svaki član donosi svoj jedinstveni doprinos rastu i napretku.</p>
+<img src="Sultan Zlatko.peg" alt="Sultan Zlatko" style="width: 50%; max-width: 700px; display: block; margin: 0 auto; border-radius: 20px;">
+
+<section>
+    <h2>Vizija Carstva Zlatka</h2>
+    <p>Moj cilj je izgraditi carstvo koje je temeljeno na mudrosti, pravdi, napretku i islamskim vrijednostima. Vidim svoje carstvo kao mjesto gdje tehnologija, ekonomija i kultura cvjetaju, gdje svaki građanin ima priliku za prosperitet, a vjerovanje u Allaha i poštovanje islama čine temelje moralnosti i pravde. Svijet u kojem sloboda nije samo riječ, već stvarnost, a islam je vodič u svakom aspektu života.</p>
+    <p>Moje carstvo će biti simbol napretka, slobode i međusobnog poštovanja. Svaka odluka koju donosim kao vladar temelji se na principima islamskih vrijednosti, gdje je poštovanje drugih, pravičnost i poticanje zajedništva među narodima najvažnija. Neka svaki korak u našem razvoju bude vodstvo u pravom smjeru, uvijek utemeljeno na Božijoj volji.</p>
+</section>
+
+<section>
+    <h2>Vladavina i Uprava</h2>
+    <p>Moja vladavina je usmjerena ka efikasnoj i pravednoj upravi, koja je duboko ukorijenjena u islamskim principima. Carstvo Zlatka se temelji na poštovanju zakona, gdje je pravda svima jednaka, bez obzira na njihov društveni status. Moji savjetnici i administracija su odabrani zbog svojih sposobnosti i odanosti carstvu, i svi rade na tome da život u mom carstvu bude bolji, sigurniji i prosperitetniji.</p>
+    <p>Kroz strategiju koja uvažava sve slojeve društva, nastojimo stvoriti skladan i produktivan prostor za sve građane, u skladu sa islamskim vrijednostima koje nas upućuju na poštovanje drugih i potragu za boljim svijetom. U mom carstvu, zakoni nisu samo papirnati zapisi, već su živući princip koji se poštuje i u kojem se osjećaju svi. Pravda je temelj naše vladavine, i kroz tu pravdu gradimo bolje sutra za sve naše ljude.</p>
+</section>
+
+<section>
+    <h2>Snaga Diplomacije</h2>
+    <p>Moje carstvo se ponosi svojom diplomatskom moći. Kroz pametne i pravedne diplomatske veze, izgradili smo snažnu mrežu saveznika širom svijeta. Carstvo Zlatka preferira mir, stabilnost i razvoj, a ratove vodimo samo kada je nužno za opstanak i sigurnost. Diplomatska snaga našeg carstva omogućava nam da oblikujemo svjetske događaje, da utičemo na međunarodne odnose i da budemo ključni igrač u globalnim pitanjima, uvijek sa poštovanjem islamskih vrijednosti mira i pravednosti.</p>
+    <p>Svaka diplomatska misija koju preuzimamo ima za cilj jačanje našeg ugleda u svijetu, stvaranje novih trgovinskih puteva i izgradnju jakih saveza koji će osigurati stabilnost i prosperitet svih naših građana. Diplomacija našeg carstva nije samo politička igra, već je nastojanje da stvorimo bolje uvjete za miran suživot svih naroda, utemeljeno na uzajamnom poštovanju i islamskoj pravdi.</p>
+</section>
+
+<section>
+    <h2>Bogatsvo i Resursi</h2>
+    <p>Carstvo Zlatka je bogato prirodnim resursima, industrijskom inovacijom i kulturnim naslijeđem. Naša zemlja posjeduje neiskorištene resurse, koji se koriste na način koji je održiv i koristan za sve građane. Uložili smo u industrije budućnosti, kao što su obnovljivi izvori energije, pametne tehnologije i infrastrukturni projekti koji će osigurati blagostanje za generacije koje dolaze.</p>
+    <p>Carstvo je izvor ekonomske moći, u kojem svaki resurs doprinosi našoj globalnoj dominaciji, uvijek nastojeći održati ravnotežu između prosperiteta i islamskih principa pravde i ravnoteže. Naša ekonomija nije samo usmjerena na bogatstvo, već na stvaranje održivih industrija koje poštuju okoliš i unapređuju kvalitetu života svakog pojedinca. Kroz mudro ulaganje i upravljanje resursima, stvorit ćemo temelje za dugoročnu ekonomsku stabilnost našeg carstva.</p>
+</section>
+
+<section>
+    <h2>Poruke Građanima</h2>
+    <p>Mojim građanima poručujem da je svaki njihov doprinos ključan za napredak carstva. Nastavite raditi sa strašću, vjerujte u svoje sposobnosti i budite ponosni na svoju ulogu u stvaranju boljeg svijeta. Zajedno, ujedinjeni u cilju prosperiteta, možemo izgraditi carstvo koje će trajati kroz stoljeća.</p>
+    <p>Neka svakodnevni rad, inovacije i odanost budu temelj svakog napretka u mom carstvu. Vaša hrabrost i predanost neće biti zaboravljeni – vi ste snaga koja pokreće ovo carstvo ka budućnosti. Neka Allah bude naš vodič na ovom putu. Svaki korak koji napravimo kao narod bit će utemeljen u vjeri, moralu i poštovanju temelja islama, jer je islam naša snaga, naš put i naša inspiracija za bolje sutra.</p>
+</section>
 
   <footer>
     © 2025 Carstvo Sultana Zlatka. Sva prava zadržana. Samo jedan Sultan. Samo jedno ime.
